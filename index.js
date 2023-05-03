@@ -1,10 +1,12 @@
 const express = require('express');
+const cors = require('cors')
 const app = express();
+
 const port = 5000;
-// const cors = require('cors')
 
 const recipe = require('./chefs.json')
-// app.use(cors())
+const foods = require('./foods.json')
+app.use(cors());
 
 app.get('/', (req, res) => {
     res.send("Server is running")
@@ -12,6 +14,10 @@ app.get('/', (req, res) => {
 
 app.get('/recipe', (req, res) => {
     res.send(recipe)
+})
+
+app.get('/foods', (req, res) => {
+    res.send(foods)
 })
 
 app.listen(port, () => {

@@ -1,0 +1,111 @@
+[
+  {
+    "id": 1,
+    "name": "Pizza Margherita",
+    "picture": "https://myfoodbook.com.au/sites/default/files/styles/schema_img/public/recipe_photo/Whisk_PI_190919_Pizzas_004_MARGHERITA.jpg",
+    "ingredients": [
+      "Tomato sauce",
+      "Mozzarella cheese",
+      "Fresh basil",
+      "Olive oil"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Spaghetti Carbonara",
+    "picture": "https://www.thespruceeats.com/thmb/ovIQQQxQajADuIE2lqhgqq7ppyE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/pasta-carbonara-recipe-5210168-hero-01-80090e56abc04ca19d88ebf7fad1d157.jpg",
+    "ingredients": [
+      "Spaghetti",
+      "Pancetta",
+      "Egg yolks",
+      "Parmesan cheese",
+      "Black pepper"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Lasagna",
+    "picture": "https://www.365daysofbakingandmore.com/wp-content/uploads/2018/11/Lasagna-FEATURE.jpg",
+    "ingredients": [
+      "Lasagna noodles",
+      "Ground beef",
+      "Tomato sauce",
+      "Ricotta cheese",
+      "Mozzarella cheese"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Bruschetta",
+    "picture": "https://www.thespruceeats.com/thmb/nx89Z6BLT1WEPQGXAXZn-XY-Fh4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-make-bruschetta-2020459-hero-01-15950eb2b852461abc9cfbbf536382dd.jpg",
+    "ingredients": ["Baguette", "Tomatoes", "Garlic", "Basil", "Olive oil"]
+  },
+  {
+    "id": 5,
+    "name": "Pesto Pasta",
+    "picture": "https://www.sipandfeast.com/wp-content/uploads/2022/05/chicken-pesto-pasta-salad-recipe-snippet.jpg",
+    "ingredients": [
+      "Pasta",
+      "Basil pesto",
+      "Parmesan cheese",
+      "Garlic",
+      "Olive oil"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Minestrone Soup",
+    "picture": "https://savortheflavour.com/wp-content/uploads/2022/08/Minestrone-Tasty-1200.jpg",
+    "ingredients": [
+      "Vegetable broth",
+      "Carrots",
+      "Celery",
+      "Tomatoes",
+      "Zucchini",
+      "Green beans",
+      "Kidney beans",
+      "Pasta"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Tiramisu",
+    "picture": "https://www.allrecipes.com/thmb/xDLqDQoPkelZrIwC9ab56tv_eAw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/21412-tiramisu-ii-3x2-119-dc2ec77a0d39410195161a3ff98ca000.jpg",
+    "ingredients": [
+      "Ladyfingers",
+      "Mascarpone cheese",
+      "Eggs",
+      "Sugar",
+      "Coffee",
+      "Cocoa powder"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Risotto",
+    "picture": "https://images.getrecipekit.com/20220826222327-lucas-lobak-neves-gdb1bouiwbk-unsplash-20-1.jpg?aspect_ratio=16:9&quality=90&",
+    "ingredients": [
+      "Arborio rice",
+      "Chicken or vegetable broth",
+      "Parmesan cheese",
+      "Butter",
+      "Onion"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Osso Buco",
+    "picture": "https://www.thespruceeats.com/thmb/rAdciaI_6hQlANakjBdQ6Bc2i1U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Red-Deer-Osso-Buco-01_2-56a604613df78cf7728aeb60.JPG",
+    "ingredients": [
+      "Veal shanks",
+      "Tomatoes",
+      "Carrots",
+      "Onion",
+      "Celery",
+      "White wine",
+      "Beef broth",
+      "Garlic",
+      "Gremolata (parsley, lemon zest, garlic)"
+    ]
+  }
+]
