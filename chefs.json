@@ -6,33 +6,33 @@
     "numRecipes": 76,
     "recipes": [
       {
-        "recipeName-1": "Pesto Pasta",
-        "ingredients-1": [
+        "recipeName": "Pesto Pasta",
+        "ingredients": [
           "1 lb pasta",
           "2 cups fresh basil leaves",
           "1/2 cup grated Parmesan cheese",
           "1/2 cup olive oil",
           "3 cloves garlic"
         ],
-        "cookingMethod-1": "Cook pasta according to package instructions. While pasta is cooking, combine basil, Parmesan cheese, olive oil, and garlic in a food processor and blend until smooth. Drain pasta and toss with pesto sauce. Serve immediately.",
+        "cookingMethod": "Cook pasta according to package instructions. While pasta is cooking, combine basil, Parmesan cheese, olive oil, and garlic in a food processor and blend until smooth. Drain pasta and toss with pesto sauce. Serve immediately.",
         "ratings": 4.5,
         "img": "https://i.ibb.co/F5MmgSb/food3.png"
       },
       {
-        "recipeName-2": "Margherita Pizza",
-        "ingredients-2": [
+        "recipeName": "Margherita Pizza",
+        "ingredients": [
           "1 pizza crust",
           "1/2 cup tomato sauce",
           "1 cup shredded mozzarella cheese",
           "1/4 cup chopped fresh basil"
         ],
-        "cookingMethod-2": "Preheat oven to 450°F. Spread tomato sauce over pizza crust. Top with mozzarella cheese and chopped basil. Bake for 10-12 minutes or until crust is golden brown.",
+        "cookingMethod": "Preheat oven to 450°F. Spread tomato sauce over pizza crust. Top with mozzarella cheese and chopped basil. Bake for 10-12 minutes or until crust is golden brown.",
         "ratings": 4.7,
         "img": "https://i.ibb.co/CBcdvjk/food1.png"
       },
       {
-        "recipeName-3": "Tiramisu",
-        "ingredients-3": [
+        "recipeName": "Tiramisu",
+        "ingredients": [
           "1 cup heavy cream",
           "1/4 cup sugar",
           "1/4 cup espresso",
@@ -40,7 +40,7 @@
           "1 cup mascarpone cheese",
           "24 ladyfingers"
         ],
-        "cookingMethod-3": "In a large bowl, beat heavy cream and sugar until stiff peaks form. In a separate bowl, combine espresso and Kahlua. Dip ladyfingers in espresso mixture and layer in a 9x13 inch dish. Spread mascarpone cheese over ladyfingers. Top with whipped cream. Chill for at least 2 hours before serving.",
+        "cookingMethod": "In a large bowl, beat heavy cream and sugar until stiff peaks form. In a separate bowl, combine espresso and Kahlua. Dip ladyfingers in espresso mixture and layer in a 9x13 inch dish. Spread mascarpone cheese over ladyfingers. Top with whipped cream. Chill for at least 2 hours before serving.",
         "ratings": 4.9,
         "img": "https://i.ibb.co/6Xzgzzd/food2.png"
       }
@@ -56,33 +56,33 @@
     "numRecipes": 36,
     "recipes": [
       {
-        "recipeName-1": "Pesto Pasta",
-        "ingredients-1": [
+        "recipeName": "Pesto Pasta",
+        "ingredients": [
           "1 lb pasta",
           "2 cups fresh basil leaves",
           "1/2 cup grated Parmesan cheese",
           "1/2 cup olive oil",
           "3 cloves garlic"
         ],
-        "cookingMethod-1": "Cook pasta according to package instructions. While pasta is cooking, combine basil, Parmesan cheese, olive oil, and garlic in a food processor and blend until smooth. Drain pasta and toss with pesto sauce. Serve immediately.",
+        "cookingMethod": "Cook pasta according to package instructions. While pasta is cooking, combine basil, Parmesan cheese, olive oil, and garlic in a food processor and blend until smooth. Drain pasta and toss with pesto sauce. Serve immediately.",
         "ratings": 4.5,
         "img": "https://i.ibb.co/F5MmgSb/food3.png"
       },
       {
-        "recipeName-2": "Margherita Pizza",
-        "ingredients-2": [
+        "recipeName": "Margherita Pizza",
+        "ingredients": [
           "1 pizza crust",
           "1/2 cup tomato sauce",
           "1 cup shredded mozzarella cheese",
           "1/4 cup chopped fresh basil"
         ],
-        "cookingMethod-2": "Preheat oven to 450°F. Spread tomato sauce over pizza crust. Top with mozzarella cheese and chopped basil. Bake for 10-12 minutes or until crust is golden brown.",
+        "cookingMethod": "Preheat oven to 450°F. Spread tomato sauce over pizza crust. Top with mozzarella cheese and chopped basil. Bake for 10-12 minutes or until crust is golden brown.",
         "ratings": 4.7,
         "img": "https://i.ibb.co/CBcdvjk/food1.png"
       },
       {
-        "recipeName-3": "Tiramisu",
-        "ingredients-3": [
+        "recipeName": "Tiramisu",
+        "ingredients": [
           "1 cup heavy cream",
           "1/4 cup sugar",
           "1/4 cup espresso",
@@ -90,7 +90,7 @@
           "1 cup mascarpone cheese",
           "24 ladyfingers"
         ],
-        "cookingMethod-3": "In a large bowl, beat heavy cream and sugar until stiff peaks form. In a separate bowl, combine espresso and Kahlua. Dip ladyfingers in espresso mixture and layer in a 9x13 inch dish. Spread mascarpone cheese over ladyfingers. Top with whipped cream. Chill for at least 2 hours before serving.",
+        "cookingMethod": "In a large bowl, beat heavy cream and sugar until stiff peaks form. In a separate bowl, combine espresso and Kahlua. Dip ladyfingers in espresso mixture and layer in a 9x13 inch dish. Spread mascarpone cheese over ladyfingers. Top with whipped cream. Chill for at least 2 hours before serving.",
         "ratings": 4.9,
         "img": "https://i.ibb.co/6Xzgzzd/food2.png"
       }
@@ -106,33 +106,33 @@
     "numRecipes": 38,
     "recipes": [
       {
-        "recipeName-1": "Pesto Pasta",
-        "ingredients-1": [
+        "recipeName": "Pesto Pasta",
+        "ingredients": [
           "1 lb pasta",
           "2 cups fresh basil leaves",
           "1/2 cup grated Parmesan cheese",
           "1/2 cup olive oil",
           "3 cloves garlic"
         ],
-        "cookingMethod-1": "Cook pasta according to package instructions. While pasta is cooking, combine basil, Parmesan cheese, olive oil, and garlic in a food processor and blend until smooth. Drain pasta and toss with pesto sauce. Serve immediately.",
+        "cookingMethod": "Cook pasta according to package instructions. While pasta is cooking, combine basil, Parmesan cheese, olive oil, and garlic in a food processor and blend until smooth. Drain pasta and toss with pesto sauce. Serve immediately.",
         "ratings": 4.5,
         "img": "https://i.ibb.co/F5MmgSb/food3.png"
       },
       {
-        "recipeName-2": "Margherita Pizza",
-        "ingredients-2": [
+        "recipeName": "Margherita Pizza",
+        "ingredients": [
           "1 pizza crust",
           "1/2 cup tomato sauce",
           "1 cup shredded mozzarella cheese",
           "1/4 cup chopped fresh basil"
         ],
-        "cookingMethod-2": "Preheat oven to 450°F. Spread tomato sauce over pizza crust. Top with mozzarella cheese and chopped basil. Bake for 10-12 minutes or until crust is golden brown.",
+        "cookingMethod": "Preheat oven to 450°F. Spread tomato sauce over pizza crust. Top with mozzarella cheese and chopped basil. Bake for 10-12 minutes or until crust is golden brown.",
         "ratings": 4.7,
         "img": "https://i.ibb.co/CBcdvjk/food1.png"
       },
       {
-        "recipeName-3": "Tiramisu",
-        "ingredients-3": [
+        "recipeName": "Tiramisu",
+        "ingredients": [
           "1 cup heavy cream",
           "1/4 cup sugar",
           "1/4 cup espresso",
@@ -140,7 +140,7 @@
           "1 cup mascarpone cheese",
           "24 ladyfingers"
         ],
-        "cookingMethod-3": "In a large bowl, beat heavy cream and sugar until stiff peaks form. In a separate bowl, combine espresso and Kahlua. Dip ladyfingers in espresso mixture and layer in a 9x13 inch dish. Spread mascarpone cheese over ladyfingers. Top with whipped cream. Chill for at least 2 hours before serving.",
+        "cookingMethod": "In a large bowl, beat heavy cream and sugar until stiff peaks form. In a separate bowl, combine espresso and Kahlua. Dip ladyfingers in espresso mixture and layer in a 9x13 inch dish. Spread mascarpone cheese over ladyfingers. Top with whipped cream. Chill for at least 2 hours before serving.",
         "ratings": 4.9,
         "img": "https://i.ibb.co/6Xzgzzd/food2.png"
       }
@@ -156,33 +156,33 @@
     "numRecipes": 55,
     "recipes": [
       {
-        "recipeName-1": "Pesto Pasta",
-        "ingredients-1": [
+        "recipeName": "Pesto Pasta",
+        "ingredients": [
           "1 lb pasta",
           "2 cups fresh basil leaves",
           "1/2 cup grated Parmesan cheese",
           "1/2 cup olive oil",
           "3 cloves garlic"
         ],
-        "cookingMethod-1": "Cook pasta according to package instructions. While pasta is cooking, combine basil, Parmesan cheese, olive oil, and garlic in a food processor and blend until smooth. Drain pasta and toss with pesto sauce. Serve immediately.",
+        "cookingMethod": "Cook pasta according to package instructions. While pasta is cooking, combine basil, Parmesan cheese, olive oil, and garlic in a food processor and blend until smooth. Drain pasta and toss with pesto sauce. Serve immediately.",
         "ratings": 4.5,
         "img": "https://i.ibb.co/F5MmgSb/food3.png"
       },
       {
-        "recipeName-2": "Margherita Pizza",
-        "ingredients-2": [
+        "recipeName": "Margherita Pizza",
+        "ingredients": [
           "1 pizza crust",
           "1/2 cup tomato sauce",
           "1 cup shredded mozzarella cheese",
           "1/4 cup chopped fresh basil"
         ],
-        "cookingMethod-2": "Preheat oven to 450°F. Spread tomato sauce over pizza crust. Top with mozzarella cheese and chopped basil. Bake for 10-12 minutes or until crust is golden brown.",
+        "cookingMethod": "Preheat oven to 450°F. Spread tomato sauce over pizza crust. Top with mozzarella cheese and chopped basil. Bake for 10-12 minutes or until crust is golden brown.",
         "ratings": 4.7,
         "img": "https://i.ibb.co/CBcdvjk/food1.png"
       },
       {
-        "recipeName-3": "Tiramisu",
-        "ingredients-3": [
+        "recipeName": "Tiramisu",
+        "ingredients": [
           "1 cup heavy cream",
           "1/4 cup sugar",
           "1/4 cup espresso",
@@ -190,7 +190,7 @@
           "1 cup mascarpone cheese",
           "24 ladyfingers"
         ],
-        "cookingMethod-3": "In a large bowl, beat heavy cream and sugar until stiff peaks form. In a separate bowl, combine espresso and Kahlua. Dip ladyfingers in espresso mixture and layer in a 9x13 inch dish. Spread mascarpone cheese over ladyfingers. Top with whipped cream. Chill for at least 2 hours before serving.",
+        "cookingMethod": "In a large bowl, beat heavy cream and sugar until stiff peaks form. In a separate bowl, combine espresso and Kahlua. Dip ladyfingers in espresso mixture and layer in a 9x13 inch dish. Spread mascarpone cheese over ladyfingers. Top with whipped cream. Chill for at least 2 hours before serving.",
         "ratings": 4.9,
         "img": "https://i.ibb.co/6Xzgzzd/food2.png"
       }
@@ -206,33 +206,33 @@
     "numRecipes": 88,
     "recipes": [
       {
-        "recipeName-1": "Pesto Pasta",
-        "ingredients-1": [
+        "recipeName": "Pesto Pasta",
+        "ingredients": [
           "1 lb pasta",
           "2 cups fresh basil leaves",
           "1/2 cup grated Parmesan cheese",
           "1/2 cup olive oil",
           "3 cloves garlic"
         ],
-        "cookingMethod-1": "Cook pasta according to package instructions. While pasta is cooking, combine basil, Parmesan cheese, olive oil, and garlic in a food processor and blend until smooth. Drain pasta and toss with pesto sauce. Serve immediately.",
+        "cookingMethod": "Cook pasta according to package instructions. While pasta is cooking, combine basil, Parmesan cheese, olive oil, and garlic in a food processor and blend until smooth. Drain pasta and toss with pesto sauce. Serve immediately.",
         "ratings": 4.5,
         "img": "https://i.ibb.co/F5MmgSb/food3.png"
       },
       {
-        "recipeName-2": "Margherita Pizza",
-        "ingredients-2": [
+        "recipeName": "Margherita Pizza",
+        "ingredients": [
           "1 pizza crust",
           "1/2 cup tomato sauce",
           "1 cup shredded mozzarella cheese",
           "1/4 cup chopped fresh basil"
         ],
-        "cookingMethod-2": "Preheat oven to 450°F. Spread tomato sauce over pizza crust. Top with mozzarella cheese and chopped basil. Bake for 10-12 minutes or until crust is golden brown.",
+        "cookingMethod": "Preheat oven to 450°F. Spread tomato sauce over pizza crust. Top with mozzarella cheese and chopped basil. Bake for 10-12 minutes or until crust is golden brown.",
         "ratings": 4.7,
         "img": "https://i.ibb.co/CBcdvjk/food1.png"
       },
       {
-        "recipeName-3": "Tiramisu",
-        "ingredients-3": [
+        "recipeName": "Tiramisu",
+        "ingredients": [
           "1 cup heavy cream",
           "1/4 cup sugar",
           "1/4 cup espresso",
@@ -240,7 +240,7 @@
           "1 cup mascarpone cheese",
           "24 ladyfingers"
         ],
-        "cookingMethod-3": "In a large bowl, beat heavy cream and sugar until stiff peaks form. In a separate bowl, combine espresso and Kahlua. Dip ladyfingers in espresso mixture and layer in a 9x13 inch dish. Spread mascarpone cheese over ladyfingers. Top with whipped cream. Chill for at least 2 hours before serving.",
+        "cookingMethod": "In a large bowl, beat heavy cream and sugar until stiff peaks form. In a separate bowl, combine espresso and Kahlua. Dip ladyfingers in espresso mixture and layer in a 9x13 inch dish. Spread mascarpone cheese over ladyfingers. Top with whipped cream. Chill for at least 2 hours before serving.",
         "ratings": 4.9,
         "img": "https://i.ibb.co/6Xzgzzd/food2.png"
       }
@@ -255,33 +255,33 @@
     "experience": 6,
     "recipes": [
       {
-        "recipeName-1": "Pesto Pasta",
-        "ingredients-1": [
+        "recipeName": "Pesto Pasta",
+        "ingredients": [
           "1 lb pasta",
           "2 cups fresh basil leaves",
           "1/2 cup grated Parmesan cheese",
           "1/2 cup olive oil",
           "3 cloves garlic"
         ],
-        "cookingMethod-1": "Cook pasta according to package instructions. While pasta is cooking, combine basil, Parmesan cheese, olive oil, and garlic in a food processor and blend until smooth. Drain pasta and toss with pesto sauce. Serve immediately.",
+        "cookingMethod": "Cook pasta according to package instructions. While pasta is cooking, combine basil, Parmesan cheese, olive oil, and garlic in a food processor and blend until smooth. Drain pasta and toss with pesto sauce. Serve immediately.",
         "ratings": 4.5,
         "img": "https://i.ibb.co/F5MmgSb/food3.png"
       },
       {
-        "recipeName-2": "Margherita Pizza",
-        "ingredients-2": [
+        "recipeName": "Margherita Pizza",
+        "ingredients": [
           "1 pizza crust",
           "1/2 cup tomato sauce",
           "1 cup shredded mozzarella cheese",
           "1/4 cup chopped fresh basil"
         ],
-        "cookingMethod-2": "Preheat oven to 450°F. Spread tomato sauce over pizza crust. Top with mozzarella cheese and chopped basil. Bake for 10-12 minutes or until crust is golden brown.",
+        "cookingMethod": "Preheat oven to 450°F. Spread tomato sauce over pizza crust. Top with mozzarella cheese and chopped basil. Bake for 10-12 minutes or until crust is golden brown.",
         "ratings": 4.7,
         "img": "https://i.ibb.co/CBcdvjk/food1.png"
       },
       {
-        "recipeName-3": "Tiramisu",
-        "ingredients-3": [
+        "recipeName": "Tiramisu",
+        "ingredients": [
           "1 cup heavy cream",
           "1/4 cup sugar",
           "1/4 cup espresso",
@@ -289,7 +289,7 @@
           "1 cup mascarpone cheese",
           "24 ladyfingers"
         ],
-        "cookingMethod-3": "In a large bowl, beat heavy cream and sugar until stiff peaks form. In a separate bowl, combine espresso and Kahlua. Dip ladyfingers in espresso mixture and layer in a 9x13 inch dish. Spread mascarpone cheese over ladyfingers. Top with whipped cream. Chill for at least 2 hours before serving.",
+        "cookingMethod": "In a large bowl, beat heavy cream and sugar until stiff peaks form. In a separate bowl, combine espresso and Kahlua. Dip ladyfingers in espresso mixture and layer in a 9x13 inch dish. Spread mascarpone cheese over ladyfingers. Top with whipped cream. Chill for at least 2 hours before serving.",
         "ratings": 4.9,
         "img": "https://i.ibb.co/6Xzgzzd/food2.png"
       }
