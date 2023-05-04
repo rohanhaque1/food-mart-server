@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "Pizza Palace",
+    "address": "123 Main St",
+    "city": "Anytown",
+    "state": "CA",
+    "zip": "90210",
+    "phone": "(123) 456-7890",
+    "cuisine": "Italian",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Taco Time",
+    "address": "456 Broadway",
+    "city": "Somewhereville",
+    "state": "NY",
+    "zip": "12345",
+    "phone": "(555) 555-1212",
+    "cuisine": "Mexican",
+    "rating": 3.8
+  },
+  {
+    "id": 3,
+    "name": "Sushi Spot",
+    "address": "789 Elm St",
+    "city": "Anytown",
+    "state": "CA",
+    "zip": "90210",
+    "phone": "(123) 456-7890",
+    "cuisine": "Japanese",
+    "rating": 4.2
+  },
+  {
+    "id": 4,
+    "name": "Burger Bistro",
+    "address": "321 Oak Ave",
+    "city": "Somewhereville",
+    "state": "NY",
+    "zip": "12345",
+    "phone": "(555) 555-1212",
+    "cuisine": "American",
+    "rating": 4.0
+  },
+  {
+    "id": 5,
+    "name": "Thai Terrace",
+    "address": "555 Pine St",
+    "city": "Anytown",
+    "state": "CA",
+    "zip": "90210",
+    "phone": "(123) 456-7890",
+    "cuisine": "Thai",
+    "rating": 4.6
+  },
+  {
+    "id": 6,
+    "name": "Steakhouse",
+    "address": "777 Maple Ave",
+    "city": "Somewhereville",
+    "state": "NY",
+    "zip": "12345",
+    "phone": "(555) 555-1212",
+    "cuisine": "Steak",
+    "rating": 4.3
+  }
+]

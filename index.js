@@ -6,6 +6,8 @@ const port = 5000;
 
 const recipe = require('./chefs.json')
 const foods = require('./foods.json')
+const branch = require('./branch.json')
+
 app.use(cors());
 
 app.get('/', (req, res) => {
@@ -24,6 +26,10 @@ app.get('/recipe/:id', (req, res) => {
 
 app.get('/foods', (req, res) => {
     res.send(foods)
+})
+
+app.get('/branch', (req, res) => {
+    res.send(branch)
 })
 
 app.listen(port, () => {
